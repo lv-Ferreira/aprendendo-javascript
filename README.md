@@ -2,4 +2,4 @@
 Alguns Exercícios em JavaScript
 
 
-# Leonardo Vinicius
+Leonardo Vinicius
