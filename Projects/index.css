@@ -1,0 +1,41 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+div.component {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border: 1px solid #000000;
+}
+
+div.component h1:first-child {
+    text-align: center;
+}
+
+div.content {
+    margin-left: 30%;
+}
+
+div.content input {
+    margin-top: 10%;
+    display: block;
+}
+
+div.actions {
+    margin-left: 37.5%;
+}
+
+div.actions input {
+    border: 1px solid #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    width: 90px;
+    height: 50px;
+}
+
+div.actions input:hover {
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    color: #000000;
+}
